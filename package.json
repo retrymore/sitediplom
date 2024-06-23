@@ -1,0 +1,21 @@
+{
+  "name": "learn-starter",
+  "version": "1.0.0",
+  "react-script": "^5.0.1",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "fnm": "^0.0.0",
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-chat-engine": "^1.11.28",
+    "react-dom": "17.0.2",
+    "react-scripts": "^5.0.1",
+    "yarn": "^1.22.22"
+  }
+}
